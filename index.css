@@ -1,0 +1,22 @@
+* {
+    color: fuchsia;
+}
+
+p {
+    color: rgb(127, 189, 208);
+    background-color: black;
+    border-style: dotted;
+    border-color: blueviolet;
+}
+
+.test {
+    color: rgb(200, 23, 23);
+    background-color: blue;
+}
+
+#absatz {
+    background-color: cornflowerblue;
+    font-family: monospace;
+    font-size: 100px;
+}
+
